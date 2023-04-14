@@ -1,0 +1,15 @@
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\bin\Debug\net6.0\Exercicio3Enum.exe
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\bin\Debug\net6.0\Exercicio3Enum.deps.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\bin\Debug\net6.0\Exercicio3Enum.runtimeconfig.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\bin\Debug\net6.0\Exercicio3Enum.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\bin\Debug\net6.0\Exercicio3Enum.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\obj\Debug\net6.0\Exercicio3Enum.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\obj\Debug\net6.0\Exercicio3Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\obj\Debug\net6.0\Exercicio3Enum.AssemblyInfoInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\obj\Debug\net6.0\Exercicio3Enum.AssemblyInfo.cs
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\obj\Debug\net6.0\Exercicio3Enum.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\obj\Debug\net6.0\Exercicio3Enum.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\obj\Debug\net6.0\refint\Exercicio3Enum.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\obj\Debug\net6.0\Exercicio3Enum.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\obj\Debug\net6.0\Exercicio3Enum.genruntimeconfig.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio3Enum\Exercicio3Enum\obj\Debug\net6.0\ref\Exercicio3Enum.dll
